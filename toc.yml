@@ -47,11 +47,11 @@ project:
 
 
     - title: Lab
-      file: Content/Labs/uitleg.md
+      file: Content/Labs/uitleg.md 
       children:
-        - file: Content/Labs/cwater.ipynb             
+        - file: Content/Labs/cwater.ipynb 
         - file: Content/Labs/Warmtecapaciteit.ipynb
         - file: Content/Labs/koelbuis.ipynb
         - file: Content/Labs/druksensorijken.ipynb
         - file: Content/Labs/Verdamping.ipynb
-        - file: Content/Labs/cappucino.ipynb
+        - file: Content/Labs/cappucino.ipynb 
