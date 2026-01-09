@@ -46,7 +46,7 @@ project:
         - file: Content/PySim/9_entropie.ipynb
 
 
-    - title: Labs
+    - title: Lab
       file: Content/Labs/uitleg.md
       children:
         - file: Content/Labs/cwater.ipynb             
