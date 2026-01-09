@@ -43,7 +43,7 @@ project:
         - file: Content/PySim/6_boltzmann.ipynb
         - file: Content/PySim/7_arbeid.ipynb
         - file: Content/PySim/8_thermostaat.ipynb
-        # - file: Content/PySim/9_entropie.ipynb
+        - file: Content/PySim/9_entropie.ipynb
 
     - title: Labs
       file: Content/Labs/uitleg.md
@@ -51,16 +51,13 @@ project:
         - title: Soortelijke warmte
           children:
            - file: Content/Labs/cwater.ipynb
-           - file: Content/Labs/Verdamping.ipynb       
            - file: Content/Labs/Warmtecapaciteit.ipynb
            - file: Content/Labs/Koelbuis.ipynb
-           - file: Content/Labs/tempmetingen.csv
         - title: Druk
           children:
            - file: Content/Labs/druksensorijken.ipynb
-           - file: Content/Labs/pV_diagram.ipynb
-           - file: Content/Labs/ballonproef.ipynb
         - title: Faseovergangen
           children:
-            - file: Content/Labs/waxine.ipynb
             - file: Content/Labs/cappucino.ipynb
+            - file: Content/Labs/Verdamping.ipynb   
+            - file: Content/Labs/tempmetingen.csv
