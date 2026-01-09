@@ -50,12 +50,12 @@ project:
       children:
         - title: Soortelijke warmte
           children:
-           - file: Content/Labs/Soortelijke warmte/cwater.ipynb
-           - file: Content/Labs/Soortelijke warmte/Warmtecapaciteit.ipynb
-           - file: Content/Labs/Soortelijke warmte/Koelbuis.ipynb
+            - file: Content/Labs/Soortelijke warmte/cwater.ipynb
+            - file: Content/Labs/Soortelijke warmte/Warmtecapaciteit.ipynb
+            - file: Content/Labs/Soortelijke warmte/Koelbuis.ipynb
         - title: Druk
           children:
-           - file: Content/Labs/Druk/druksensorijken.ipynb
+            - file: Content/Labs/Druk/druksensorijken.ipynb
         - title: Faseovergangen
           children:
             - file: Content/Labs/cappucino.ipynb
